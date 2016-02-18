@@ -25,7 +25,7 @@ I've actually had more money than I've needed the last four years (well it's bee
 
 The solution to me seems obvious - more smaller grants so more people get a slice of the pie. Research has shown this increases the value for money of research, so why aren't we trying it? Especially when the cost of reviewing all these grant applications is so high? See [here](http://www.tandfonline.com/doi/abs/10.1080/08989620802689821?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&) and [here](http://alternative-democracy-research.org/2015/06/10/rationalizing-the-unreasonable-there-are-no-good-academics-in-the-eu/)
 
-###Natalie###
-###@nhcooper123###
-###Picture Credit: http://401kcalculator.org###
+###Natalie
+###@nhcooper123
+###Picture Credit: http://401kcalculator.org
 
