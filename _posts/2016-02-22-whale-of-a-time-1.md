@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Whale of a Time: serendipitous science
+title: A Whale of a Time - serendipity and science
 ---
 
-![headimg]({{ site.baseurl }}/images/bluewhalecartoon.png)
+![headimg]({{ site.baseurl }}/images/Blue_whale_size.svg)
 In early 2015 the Natural History Museum announced that it would be moving "Dippy" the diplodocus from the main hall of the Museum and [replacing it with a blue whale](http://www.bbc.co.uk/news/science-environment-31025229). This turned out to be controversial, but for me it provided an exciting opportunity to serendipitously expand my research into a completely new area. 
 
 The blue whale was bought by the Museum in 1891 for a mere £250. The animal itself became beached off the coast of Wexford in Ireland. It went on display in the mammal hall in 1935 where it remained until the dismantling began in September 2015. All the bones are now down from the ceiling and being prepared by conservators. The plan is to remount the skeleton in the main hall by January 2017.
