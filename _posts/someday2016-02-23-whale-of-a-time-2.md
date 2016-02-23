@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Whale of a Time: powertools
+title: A Whale of a Time - powertools
 ---
 
 ![headimg]({{ site.baseurl }}/images/money.jpeg)
