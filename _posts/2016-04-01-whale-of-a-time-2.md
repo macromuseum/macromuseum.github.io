@@ -8,7 +8,7 @@ title: A Whale of a Time -  Let me make you a proposal... [Isotopes 1]
 
 A Whale of a Time is the name I've given to the research projects happening in the cetacean collections at the Museum. However it is also the name of a specific project funded by the [British Ecological Society][http://www.britishecologicalsociety.org/] on using stable isotopes to monitor changes in baleen whale diets through time. I intend to document the progress of this project here, so thought I'd start with our proposal.
 
-###The proposal
+### The proposal
 
 Whales are among the most charismatic species on Earth, but also the most enigmatic. We still know little about their biology or about how they respond to human pressures, making it difficult to strategically plan their conservation. One way to investigate the ecology of species that are hard to observe is to use stable isotopes. Variation in ratios of delta13C and delta15N can provide information on changes in an individual's relative space use and diet over time. Isotope models for delta13C can also predict latitudinal variability. In this project we will use stable isotopes and museum collections to gain unprecedented insight into the historical and recent ecology of whales.
 
