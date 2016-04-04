@@ -27,7 +27,7 @@ This is a slightly modified version of what we submitted with the methods remove
 It will be interesting to see how much this all changes as the project progresses!
 
 ![bodyimg]({{ site.baseurl }}/images/BESlogo.jpeg)
-Thanks BES!
+<center>Thanks BES!<center>
 
 ### Natalie
 @nhcooper123
