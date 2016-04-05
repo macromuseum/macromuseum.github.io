@@ -8,7 +8,7 @@ In February 2016 we had our first day working in the collections on our [British
 
 The day began with the usual transport nightmares. Clive and Kate's train got canceled, the Piccadilly line was delayed, and I was loaded with so much equipment I was like a slowly lumbering pack horse. Eventually (after Andrew took an age to decide on a sandwich!) we all got together and managed to head to the collections.
 
-I've been working with museum collections for over 10 years now but I still get a buzz of excitement every time I go into the collections. For the others this was their first trip to the cetacean collections so you can probably imagine their levels of excitement! After a while being shown round the collections by Richard we decided to let everyone have a look round on their own because it was "too overwhelming" to focus on strategic planning when surrounded by hundreds of whale skeletons. Once everyone had calmed down a bit we realised we had a problem, we didn't have enough specimens to do the analyses we had planned. Our original plan had been to sample around 300 skulls, instead the collection contained only around 30. Oops!
+I've been working with museum collections for over 10 years now but I still get a buzz of excitement every time I go into the collections. For the others this was their first trip to the cetacean collections so you can probably imagine their levels of excitement! After a while being shown round the collections by Richard we decided to let everyone have a look round on their own because it was "too overwhelming" to focus on strategic planning when surrounded by hundreds of whale skeletons. Once everyone had calmed down a bit we realised we had a problem, we didn't have enough specimens to do the analyses we had planned. Our original plan had been to sample around 300 rorqual skulls, instead the collection contained only around 30. Oops!
 
 ![bodyimg]({{ site.baseurl }}/images/whalehouse.jpg)
 <center>The hugely distracting whale skull collection</center>
@@ -20,12 +20,13 @@ For rorquals, the issue is probably related to their size and the difficulty of 
 We are scientists however, and refused to buckle at the first hurdle. After lunch, several coffees, and a bit of drawing on the whiteboard we got back on track. Instead of sampling bone, we would sample baleen. Baleen is what rorqual whales use to feed - they take in water with their prey floating in it, then shut their mouths and use their muscular tongues to push the water out through their baleen. The baleen acts like a massive sieve retaining the prey items in the mouth. Baleen is made up of a series of plates (made of keratin like our finger nails) that grow through a whale's lifetime. Thus the bottom of the plate was laid down when the animal was a juvenile, and the top just before it died. So looking at stable isotope samples taken at intervals along each baleen plate gives us the chance to look at changes in stable isotope ratios through time (of course we have to make a lot of assumptions here about the rate of growth etc.). This should give insights into changes in the diet of the whale and perhaps its latitudinal range.
 
 ![bodyimg]({{ site.baseurl }}/images/FinBaleen.jpg)
-<center>A drawer of fin whale baleen</center>
+<center>A drawer of fin whale baleen. Yep that's a tobacco tin, fin whales are notorious chain smokers.</center>
 
-Problem solved, we then combed the collection for baleen samples. Most of these were in some drawers, but we also found a huge crate containing all the baleen from the blue whale that will eventually be hung from the Hintze Hall in the Museum. There were also a few whale skulls with baleen plates still attached (see a later post for more on those). We put together a set of specimens to sample and whittled these down to those with the best metadata (i.e. details of collection date, location) and giving an even representation across years (our oldest specimen was stranded in the late 1800s, our youngest specimen was stranded in the 1980s). 
+With this first problem solved, we then combed the collection for baleen samples. Most of these were in some drawers, but we also found a huge crate containing all the baleen from the blue whale that will eventually be hung from the Hintze Hall in the Museum. There were also a few whale skulls with baleen plates still attached (see a later post for more on those). We put together a set of specimens to sample and whittled these down to those with the best metadata (i.e. details of collection date, location) and giving an even representation across years (our oldest specimen was stranded in the late 1800s, our youngest specimen was stranded in the 1980s). 
 
-Stage one complete, the next step is to send to Southampton so Clive and Kate can take samples and extract stable isotopes...
+Stage one complete, the next step is to get the baleen to Southampton so Clive and Kate can take samples and extract stable isotopes. Watch this space for updates!
 
+![bodyimg]({{ site.baseurl }}/images/BESlogo.jpeg)
 
 ### Natalie
 @nhcooper123
