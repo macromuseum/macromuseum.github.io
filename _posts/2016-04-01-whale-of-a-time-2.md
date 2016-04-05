@@ -4,8 +4,6 @@ title: A Whale of a Time 2 -  Let me make you a proposal...
 ---
 
 ![headimg]({{ site.baseurl }}/images/BESlogo.jpeg)
-
-
 A Whale of a Time is the name I've given to the research projects happening in the cetacean collections at the Museum. However it is also the name of a specific project funded by the [British Ecological Society](http://www.britishecologicalsociety.org/) on using stable isotopes to monitor changes in baleen whale diets through time. I intend to document the progress of this project here, so thought I'd start with our proposal.
 
 ### The proposal
