@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Whale of a Time - serendipity and science
+title: A Whale of a Time 1 - serendipity and science
 ---
 
 ![headimg]({{ site.baseurl }}/images/Blue_whale_size.svg)

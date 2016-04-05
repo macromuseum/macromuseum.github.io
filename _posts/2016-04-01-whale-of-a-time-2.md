@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A Whale of a Time -  Let me make you a proposal... [Isotopes 1]
+title: A Whale of a Time 2 -  Let me make you a proposal...
 ---
 
-![headimg]({{ site.baseurl }}/images/money.jpeg)
+![headimg]({{ site.baseurl }}/images/BESlogo.jpeg)
 
 
-A Whale of a Time is the name I've given to the research projects happening in the cetacean collections at the Museum. However it is also the name of a specific project funded by the [British Ecological Society][http://www.britishecologicalsociety.org/] on using stable isotopes to monitor changes in baleen whale diets through time. I intend to document the progress of this project here, so thought I'd start with our proposal.
+A Whale of a Time is the name I've given to the research projects happening in the cetacean collections at the Museum. However it is also the name of a specific project funded by the [British Ecological Society](http://www.britishecologicalsociety.org/) on using stable isotopes to monitor changes in baleen whale diets through time. I intend to document the progress of this project here, so thought I'd start with our proposal.
 
 ### The proposal
 
@@ -21,13 +21,18 @@ Specifically we will ask:
 
 We predict that the niche widths of rorquals were greatly reduced by whaling, and that subsequently, as populations begin to increase again, their niche expanded. We also predict that competition with arctic fisheries has caused the latitudinal range of rorquals to shrink southwards as fishing in these areas has intensified. Our findings will provide insights into how human actions have impacted these charismatic animals in the past, present and future.
 
-###The small print
-This is a slightly modified version of what we submitted with the methods removed because we've already changed the methods (it will become clearer why in a future post!). This project will be carried out by myself, Dr Andrew Jackson (Trinity College Dublin), Dr Clive Trueman (Southampton), Richard Sabin and several Masters students.
+This project will be carried out by myself, [Dr Andrew Jackson](http://www.tcd.ie/Zoology/research/research/theoretical/andrewjackson.php) (Trinity College Dublin), [Dr Clive Trueman](https://noc.ac.uk/people/trueman) (National Oceanography Centre, Southampton), [Richard Sabin](http://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/richard-sabin.html) and Masters students Kate Chadwick (Southampton) and Dan Bell (Imperial).
 
-It will be interesting to see how much this all changes as the project progresses!
+### The small print
+This is a slightly modified version of what we submitted with the methods removed because we've already changed the methods (it will become clearer why in a future [post](http://macromuseum.github.io/whale-of-a-time-3/)!). It will be interesting to see how much this all changes as the project progresses!
 
-![bodyimg]({{ site.baseurl }}/images/BESlogo.jpeg)
-<center>Thanks BES!<center>
+### Side note on funding
+We were absolutely delighted when we got this funding from the BES. It was a really quick and straightforward application process, and although it's only £5000 this is a perfect amount to fund a project like this. The money will cover stable isotope analyses and travel costs for collaborators. It will also allow two MSc students to carry out projects with our collections. If only more small pots of funding like this were available! 
 
-### Natalie
+![bodyimg]({{ site.baseurl }}/images/humpback.jpg)
+<center>Thanks for the funding BES!</center>
+
+### Natalie 
 @nhcooper123
+
+### Picture credit: Kurzon (Wikimedia Commons)
