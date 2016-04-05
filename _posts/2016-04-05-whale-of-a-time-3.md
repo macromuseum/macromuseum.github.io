@@ -4,8 +4,6 @@ title: A Whale of a Time 3 - baleen hunting in the collections
 ---
 
 ![headimg]({{ site.baseurl }}/images/baleen.jpg)
-
-
 In February 2016 we had our first day working in the collections on our [British Ecological Society](http://www.britishecologicalsociety.org/) project "A Whale of A Time" (see our [proposal](http://macromuseum.github.io/whale-of-a-time-2/)). The plan for the day was for myself and my collaborators [Andrew](http://www.tcd.ie/Zoology/research/research/theoretical/andrewjackson.php) and [Clive](https://noc.ac.uk/people/trueman) (plus Masters students Kate and Dan) to take a look at what was in the collection then make a strategic plan for what we would sample in our project. We estimated that we had enough money to take about 300 samples, and the original plan was to take these from the jaw bones of rorqual whales (Balaenopteridae - this includes humpback, minke, fin, sei and blue whales) of different species, from different geographic locations and from different dates. This didn't entirely go to plan.
 
 The day began with the usual transport nightmares. Clive and Kate's train got canceled, the Piccadilly line was delayed, and I was loaded with so much equipment I was like a slowly lumbering pack horse. Eventually (after Andrew took an age to decide on a sandwich!) we all got together and managed to head to the collections.
