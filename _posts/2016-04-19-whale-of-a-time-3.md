@@ -1,3 +1,4 @@
+---
 layout: post
 title: A Whale of a Time 3 - baleen hunting in the collections
 ---
