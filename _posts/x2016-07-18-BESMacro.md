@@ -3,7 +3,7 @@ layout: post
 title: Formally informal conferences
 ---
 
-![headimg]({{ site.baseurl }}/images/2015-04-04-14.10.45.jpg) <!-- Use one of the images -->
+![headimg]({{ site.baseurl }}/images/BESMacroNetworking.jpg) <!-- Use one of the images -->
 One of my favourite parts of working as a researcher during the summer (aside from quiet campuses with less students around) definitely has to be the "conference season".
 Indeed, I don't need to convince many people that conferences are one of the lively and exciting parts of doing science that rightly mix traveling, networking (and sometimes drinking) and learning about so many new things (and sometimes hangovers).
 
@@ -25,7 +25,7 @@ In fact I often think to myself just before giving a talk, how lame mine will be
 Not that mixing different career levels makes my talk less lame (!), it has at least the benefit of making me feel better.
 It also has the undeniable benefit of making it easier to network with the big wigs if you spoke in the same session as them.
 At BES Macro 2016, each session was a good mix of every career level making it much more casual.
-Even the plenary speakers ranged from Professor [Tim Blackburn](https://twitter.com/TimBlackburn66) to About-to-be-doctor [Hannah White](https://twitter.com/hannah_wht)!
+Even the plenary speakers ranged from Professor [Tim Blackburn](https://twitter.com/TimBlackburn66) to About-to-be-Doctor [Hannah White](https://twitter.com/hannah_wht)!
 
 ### Second, make most of the talks short
 People have mixed feelings about lightning talks: from the speaker's point of view, when you have exciting results it can be frustrating to convey your message in 5 minutes.
@@ -38,7 +38,7 @@ Besides, if 5 minutes was not enough and just peaked your curiosity, it makes an
 Another point of conferences that can be negative is that you chain-listen to many many talks all day long.
 That has the benefit of giving a good overview of your field of research but can also make you slightly sleepy!
 One solution to break this continuous rhythm of talks is to do it with discussion sessions that can either be about transferable skills or about big questions in the field.
-For example, at BES Macro 2016 we had an excellent discussion session on [reproducibility]() <!-- add Leila's post here? -->
+For example, at BES Macro 2016 we had an excellent discussion session on [reproducibility](https://docs.google.com/document/d/1ZZ2OKI_eL2XTfKmyCplT6qf1qCLlpMFctbRs_Zs_c64/edit?usp=sharing) 
 and another on the classic "What is Macroecology?" question.
 
 ### And finally, don't forget to add some rants
@@ -51,9 +51,9 @@ As [Rich Grenyer](https://twitter.com/rich_) put it in his welcoming introductio
 
 Hope to see you at the next conference!
 
-### Thomas Guillerme
+### Thomas Guillerme, Imperial College London
 @TGuillerme
 
 ### Photo credit: Thomas Guillerme
 
-**[Original post]()**
+<!--**[Original post]()**-->
