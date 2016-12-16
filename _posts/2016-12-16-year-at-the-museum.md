@@ -19,8 +19,8 @@ While 2017 is going to be the year of the whale, with our blue whale taking cent
 
 ### Fun dead stuff
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GIANT SALAMANDER! And <a href="https://twitter.com/jeff_streicher">@jeff_streicher</a> @ NHM London <a href="https://twitter.com/hashtag/bestjobever?src=hash">#bestjobever</a> <a href="https://t.co/B8bGKBI4zR">pic.twitter.com/B8bGKBI4zR</a></p>&mdash; Natalie Cooper (@nhcooper123) <a href="https://twitter.com/nhcooper123/status/773195442809081856">September 6, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GIANT SALAMANDER! And <a href="https://twitter.com/jeff_streicher">@jeff_streicher</a> @ NHM London <a href="https://twitter.com/hashtag/bestjobever?src=hash">#bestjobever</a> <a href="https://t.co/B8bGKBI4zR">pic.twitter.com/B8bGKBI4zR</a></p>&mdash; Natalie Cooper (@nhcooper123) <a href="https://twitter.com/nhcooper123/status/773195442809081856">September 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 My favourite part of this job is that I get to be close up to creatures that few other people ever encounter. After a slightly grumpy feminist rant about how women were just as good at lifting large fish as men, I'm now called upon whenever someone needs a hand shifting a large specimen. This has included two frozen great white sharks (sharksicles - surprisingly cooling on one of the hottest days of the year!), Stanley the sturgeon, Mr Woo the giant salamander, and my favourite the [beached marlin](http://www.bbc.co.uk/news/uk-wales-south-west-wales-37266514). 
 
