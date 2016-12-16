@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Year at the Museum
+title: A Year at the Museum - 2016
 ---
 
 ![headimg]({{ site.baseurl }}/images/taxidermy.jpg)
