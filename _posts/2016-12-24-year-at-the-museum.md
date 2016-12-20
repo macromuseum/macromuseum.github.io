@@ -28,10 +28,10 @@ The marlin arrived at 7pm one evening, so a gang of us stayed around waiting for
 ![bodyimg]({{ site.baseurl }}/images/whalehouse.jpg)
 <center>Our whalehouse - so many whales!</center>
 
-While 2017 is going to be the "Year of the Whale", with our blue whale taking centre stage in Hintze Hall and a Whales exhibition (and it's Ocean Year too!), 2016 was the year of preparing for the year of the whale. [Andrew Jackson](http://www.tcd.ie/Zoology/research/research/theoretical/andrewjackson.php) (Trinity College Dublin), [Clive Trueman](https://noc.ac.uk/people/trueman) (National Oceanography Centre, Southampton) and I had a fun day collecting baleen for our project on baleen whale movements (see [here](http://macromuseum.github.io/whale-of-a-time-2/), [here](http://macromuseum.github.io/whale-of-a-time-3/) and [here](http://macromuseum.github.io/whale-of-a-time-4/) for more details). I also hosted Erich Fitzgerald, Travis Park and Matt McCurry from Museum Victoria who spent two weeks working with our collections and coming up with some cool research projects. 
+While 2017 is going to be the "Year of the Whale", with our blue whale taking centre stage in Hintze Hall and a Whales exhibition (and it's Ocean Year too!), 2016 was the year of preparing for the year of the whale. [Andrew Jackson](http://www.tcd.ie/Zoology/research/research/theoretical/andrewjackson.php) (Trinity College Dublin), [Clive Trueman](https://noc.ac.uk/people/trueman) (National Oceanography Centre, Southampton) and I had a fun day collecting baleen for our project on baleen whale movements (see [here](http://macromuseum.github.io/whale-of-a-time-2/), [here](http://macromuseum.github.io/whale-of-a-time-3/) and [here](http://macromuseum.github.io/whale-of-a-time-4/) for more details). I also hosted [Erich Fitzgerald](https://museumvictoria.com.au/collections-research/sciences/palaeontology/people/erich-fitzgerald/), Travis Park and Matt McCurry from Museum Victoria who spent two weeks working with our collections and coming up with some cool research projects. Really excited to see how those turn out!
 
 ### Outreach
-In 2016 I've had direct contact with at least 800 members of the public, which is amazing. I gave tours on "Leading Ladies of the mammals" for London Pride, showed members round the whale hall, presented a science show on animal penises at Dinosnores for Grownups, and wrapped several children in bubble wrap (to demonstrate how polar bear hairs are hollow but look white) at Dinosnores for Kids. The Museum is such a great place for this sort of stuff, and I think it's even more important in our "post-truth" world.
+In 2016 I've had direct contact with at least 800 members of the public, which has been amazing. I gave tours on "Leading Ladies of the mammals" for London Pride, showed members round the whale hall, presented a science show on animal penises at Dinosnores for Grownups, and wrapped several children in bubble wrap (to demonstrate how polar bear hairs are hollow but look white) at Dinosnores for Kids. The Museum is such a great place for this sort of stuff, and I think it's even more important in our "post-truth" world to engage with as many people as possible.
 
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One talk down, three to go. My new game show is going down pretty well. <a href="https://twitter.com/hashtag/dinosnores?src=hash">#dinosnores</a> <a href="https://t.co/xEMmOtyZVT">pic.twitter.com/xEMmOtyZVT</a></p>&mdash; Natalie Cooper (@nhcooper123) <a href="https://twitter.com/nhcooper123/status/789574611654545408">October 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
@@ -45,6 +45,8 @@ In 2016 I've had direct contact with at least 800 members of the public, which i
 * We periodically get emails telling us that the alcohol supply to the building has been restored. Phew! No-one wants to see us sober up!
 
 * One of my baleen specimens was removed from my research because it was needed for an underwear through the ages exhibition.
+
+* Recorded an audio guide clip about giraffes and realised when being recorded my accent becomes a mixture of 1940s BBC English and Westcountry (the giraaaaaaaffe has a vairy loooong neck).
 
 * Got this delivered to my desk while I was out...
 
@@ -61,5 +63,3 @@ Hope you all have a great holiday and see you in 2017!
 
 ### Natalie 
 @nhcooper123
-
-### Picture credit: Kurzon (Wikimedia Commons)
