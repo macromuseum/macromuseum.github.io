@@ -5,7 +5,7 @@ title: Organising conferences the easy way... or not
 
 ![headimg]({{ site.baseurl }}/images/besmacro2017.jpg)
 
-Over the last couple of year's I've organised a lot of meetings and conferences. In July 2017 I organised my biggest one yet, BES Macro 2017 (see Storify [here](https://storify.com/sheardcat/bes-macro-2017)) with over 150 attendees over three days at the Natural History Museum, London. It was great fun, but a lot of work! At the end of the meeting, it was suggested that we create some kind of hand over document for helping people to organise future BES Macro meetings. I thought some of this might make a good blog post, so below are some tips, advice and ideas. Of course lots of this can be done in multiple ways, and different people have different organisational styles. But hopefully some of it is useful.
+Over the last couple of years I've organised a lot of meetings and conferences. In July 2017 I organised my biggest one yet, BES Macro 2017 (see Storify [here](https://storify.com/sheardcat/bes-macro-2017)) with over 150 attendees over three days at the Natural History Museum, London. It was great fun, but a lot of work! At the end of the meeting, it was suggested that we create some kind of hand over document for helping people to organise future BES Macro meetings. I thought some of this might make a good blog post, so below are some tips, advice and ideas. Of course lots of this can be done in multiple ways, and different people have different organisational styles. But hopefully some of it is useful.
 
 My main advice is:
 
