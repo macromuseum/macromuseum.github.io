@@ -21,6 +21,9 @@ My main advice is:
 6. **Be prepared**. Pens, post its, laser pointers, scissors, tape and bluetack are endlessly useful.
 1. Journals and societies are often happy to give small amounts of sponsorship. This can help with extras like wine receptions or student prizes. This year we were sponsored by BES, Methods in Ecology and Evolution, PalAss and Overleaf.
 
+![bodyimg]({{ site.baseurl }}/images/me_dino.jpg)
+<center>This is what happens when your talk runs over...</center>
+
 ### Registration
 1. Use Eventbrite. They charge you a small amount for each ticket, but it's worth it to not have to deal with all the hassle of collecting money from people. Also makes it really easy to refund people should the event be cancelled, or when people's plans change.
 1. Make sure to collect **all** the information you need from participants at registration - dietary information, access needs, other needs (people may request lactation rooms or prayer spaces), talk titles, preferences for field trips etc.).
@@ -44,15 +47,15 @@ My main advice is:
 1. We usually prioritise speakers who've come a long way to give a talk, even if senior.
 1. GENDER BALANCE is crucial. We have worked hard to achieve this, even where it has meant contacting male speakers and asking if they'd be willing to do posters instead to try and balance things. It's usually not too hard. It doesn't have to be precisely 50:50, but as close as possible.
 
-![bodyimg]({{ site.baseurl }}/images/me_dino.jpg)
-<center>This is what happens when your talk runs over...</center>
-
 #### Posters
 1. People are often reluctant to do posters, so we try and encourage people to be as informal as possible. We suggest bringing a figure, or a copy of your latest paper, or a laptop with a demonstration on it. Anything that you can talk about.
 
 #### Non talk sessions
 1. People can't cope with solid talks all day, so we usually add a couple of discussion, or non-science sessions. These (i) help people stay awake and (ii) provide a chance for ECRs to talk with senior people in a more relaxed setting. Sometimes they work really well, sometimes they don't. However, we generally get good feedback on these sessions.
 1. In the past we've done panel discussions, small group discussions, talks on tools and demonstrations, whole group discussions, networking events, mentoring sessions etc. Having set topics for discussions seems to help get discussions going more quickly, especially when these are led by more senior academics.
+
+![bodyimg]({{ site.baseurl }}/images/discussions.jpg)
+<center>We love a good discussion session</center>
 
 #### Social stuff
 1. We've done conference dinners in the past, but they are often expensive which is a pain for ECRs so we stopped doing this. No-one seems all that upset.
