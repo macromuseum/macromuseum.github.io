@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Careers outside academia - we R all data scientists now.
+title: Careers outside academia - data science.
 ---
 
 ![headimg]({{ site.baseurl }}/images/r4cats.png)
@@ -15,10 +15,10 @@ We all know academia is a bit of a pyramid scheme. Far more PhD students graduat
 I started the EARL meeting feeling very intimidated and full of imposter syndrome. People I chatted to in the breaks seemed confused as to why I was there, and I doubted whether my R skills were really up to the meeting standard. However, as the meeting went on I realised that this wasn't the case at all. Most speakers were doing really similar things to what we do as biologists who use R a lot, especially those of us using other people's data, and/or needing to wrangle multiple datasets to make sense of a problem. Near the end I attended several talks on reproducibility where people were discussing the exact same problems, and the exact same solutions and workflows, that we have been using. And when people talked about statistics, I realsied that quantitative ecologists are way ahead here! This led to me to realise that many of us **have the skills to be data scientists** we just need to know how to package them for non academic employers. 
 
 ## What is data science? What do data scientists do?
-Who knows! There seems to be **a lot** of debate about what a data scientist really is, and how they differ from statisticians and data analysts. The Venn diagram below gets thrown about a lot, but I'm not sure it really helps that much! It seems people (sort of) agree that data scientists "extract information from data". Not very specific. It also feels like a buzzword, and many "data scientists" rebel against the term for that reason. 
+Who knows! There seems to be **a lot** of debate about what a data scientist really is, and how they differ from statisticians and data analysts. The [Venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) below gets thrown about a lot, but I'm not sure it really helps that much! It seems people (sort of) agree that data scientists "extract information from data". Not very specific. It also feels like a buzzword, and many "data scientists" rebel against the term for that reason. 
 
 ![bodyimg]({{ site.baseurl }}/images/data-science.png)
-<center>Data science Venn diagram of doom. Details [here](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram).</center>
+<center>Drew Conway's data science Venn diagram of doom.</center>
 
 To summarise the process (from what I gathered listening to people at the meeting), a basic data science project works as follows: A client gives you some data and asks you to do something with it. This could be a very specific task, such as predicting when a client might leave an investment bank, or might be very general, for example looking at many years worth of data and trying to spot patterns that might then lead to questions. Generally people seemed to work very closely with their clients, discussing in great detail what was required and reporting back frequently. A lot of work seemed to involve the initial data cleaning and wrangling, and projects needed to change to fit with the changing needs of the client. As a final product, clients wanted a variety of things. Some required reports, others software, and many wanted some kind of application or dashboard that would allow them to run analyses themselves. 
 
