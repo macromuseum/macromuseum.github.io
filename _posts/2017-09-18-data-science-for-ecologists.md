@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Careers outside academia - data science.
+title: Careers outside academia - data science
 ---
 
 ![headimg]({{ site.baseurl }}/images/r4cats.png)
-We all know academia is a bit of a pyramid scheme. Far more PhD students graduate each year than can possibly become professors. Students often ask for ideas of what they could do outside of academia. However, academics are often the worst people to ask, because we're stuck inside the system. Recently, when I've asked people for ideas of what my students could do post graduation, they've said "data science". But what is data science? And what kinds of things do people do in data science? In this blog post I'm going to try and summarise what I learnt about data science from attending the *EARL - Enterprise Applications of the R Language* [conference](https://earlconf.com/london/) last week in London. **TL;DR: I think quantitative biologists have the skills to make excellent data scientists.**
+We all know academia is a bit of a pyramid scheme. Far more PhD students graduate each year than can possibly become professors. Students often ask for ideas of what they could do outside of academia. However, academics are often the worst people to ask, because we're stuck inside the system. Recently, when I've asked people for ideas of what my students could do post graduation, they've said "data science". But what is data science? And what kinds of things do people do in data science? In this blog post I'm going to try and summarise what I learnt about data science from attending the *EARL - Enterprise Applications of the R Language* [conference](https://earlconf.com/london/) last week in London. *TL;DR: I think quantitative biologists have the skills to make excellent data scientists.*
 
 *Disclaimer: These are my opinions, and my interpretation of what I saw and heard during the conference. Some of this came from the talks and my general impressions, other information came from discussions I had with people during the breaks. Apologies to data scientists if you feel I have misrepresented any of your opinions and/or misinterpreted what you were saying. Also I feel like there is quite a lot of disagreement about some of this, so again apologies if you feel my interpretation is incorrect.*
 
