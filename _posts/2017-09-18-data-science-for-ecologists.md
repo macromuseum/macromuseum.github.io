@@ -17,8 +17,8 @@ I started the EARL meeting feeling very intimidated and full of imposter syndrom
 ## What is data science? What do data scientists do?
 Who knows! There seems to be **a lot** of debate about what a data scientist really is, and how they differ from statisticians and data analysts. The Venn diagram below gets thrown about a lot, but I'm not sure it really helps that much! It seems people (sort of) agree that data scientists "extract information from data". Not very specific. It also feels like a buzzword, and many "data scientists" rebel against the term for that reason. 
 
-![bodyimg]({{ site.baseurl }}/images/data-science.webp)
-<center>Data science Venn diagram of doom.</center>
+![bodyimg]({{ site.baseurl }}/images/data-science.png)
+<center>Data science Venn diagram of doom. Details [here](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram).</center>
 
 To summarise the process (from what I gathered listening to people at the meeting), a basic data science project works as follows: A client gives you some data and asks you to do something with it. This could be a very specific task, such as predicting when a client might leave an investment bank, or might be very general, for example looking at many years worth of data and trying to spot patterns that might then lead to questions. Generally people seemed to work very closely with their clients, discussing in great detail what was required and reporting back frequently. A lot of work seemed to involve the initial data cleaning and wrangling, and projects needed to change to fit with the changing needs of the client. As a final product, clients wanted a variety of things. Some required reports, others software, and many wanted some kind of application or dashboard that would allow them to run analyses themselves. 
 
@@ -55,9 +55,9 @@ Finally I'll summarise some of the advice people gave me at the meeting for maki
 
 - **Learn Shiny.** Everyone seemed to have a Shiny app for their clients, or some kind of dashboard. Learn how to do this!
 
-- ** Make R packages.** You don't need to release them on CRAN, just make them to keep your analyses for each paper in a tidy format. Employers love to see that you can make R packages.
+- **Make R packages.** You don't need to release them on CRAN, just make them to keep your analyses for each paper in a tidy format. Employers love to see that you can make R packages.
 
-- **Learn about reproducbility.** This is as big a bizzwrod in data science as it is in science these days. Get down with the cool kids and get reproducbile. Check out papers here: [https://peerj.com/collections/50-practicaldatascistats/](https://peerj.com/collections/50-practicaldatascistats/)
+- **Learn about reproducibility.** This is as big a bizzwrod in data science as it is in science these days. Get down with the cool kids and get reproducbile. Check out papers here: [https://peerj.com/collections/50-practicaldatascistats/](https://peerj.com/collections/50-practicaldatascistats/)
 
 - **Tailor your CV to make sure you emphasise the skills employers need.**  And make sure to address common areas of perception bias here. Also emphasise the skills you have that make you better than the usual data science direct entrant - you've had extensive experience with messy data, complex stats
 
@@ -130,4 +130,4 @@ Companies I saw represented at EARL (sorry these are UK centric):
 ### Natalie
 @nhcooper123
 
-### Picture credit: Noam Ross
+### Picture credit: Noam Ross, Drew Conway.
