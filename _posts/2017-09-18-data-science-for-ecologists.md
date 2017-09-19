@@ -10,8 +10,8 @@ We all know academia is a bit of a pyramid scheme. Far more PhD students graduat
 
 *Disclaimer: These are my opinions, and my interpretation of what I saw and heard during the conference. Some of this came from the talks and my general impressions, other information came from discussions I had with people during the breaks. Apologies to data scientists if you feel I have misrepresented any of your opinions and/or misinterpreted what you were saying. Also I feel like there is quite a lot of disagreement about some of this, so again apologies if you feel my interpretation is incorrect.*
 
-## R we imposters?
-I started the EARL meeting feeling very intimidated and full of imposter syndrome. People I chatted to in the breaks seemed confused as to why I was there, and I doubted whether my R skills were really up to the meeting standard. However, as the meeting went on I realised that this wasn't the case at all. Most speakers were doing really similar things to what we do as biologists who use R a lot, especially those of us using other people's data, and/or needing to wrangle multiple datasets to make sense of a problem. Near the end I attended several talks on reproducibility where people were discussing the exact same problems, and the exact same solutions and workflows, that we have been using. And when people talked about statistics, I realsied that quantitative ecologists are way ahead here! This led to me to realise that many of us **have the skills to be data scientists** we just need to know how to package them for non academic employers. 
+## R we impostors?
+I started the EARL meeting feeling very intimidated and full of impostor syndrome. People I chatted to in the breaks seemed confused as to why I was there, and I doubted whether my R skills were really up to the meeting standard. However, as the meeting went on I realised that this wasn't the case at all. Most speakers were doing really similar things to what we do as biologists who use R a lot, especially those of us using other people's data, and/or needing to wrangle multiple datasets to make sense of a problem. Near the end I attended several talks on reproducibility where people were discussing the exact same problems, and the exact same solutions and workflows, that we have been using. And when people talked about statistics, I realised that quantitative ecologists are way ahead here! This led to me to realise that many of us **have the skills to be data scientists** we just need to know how to package them for non academic employers. 
 
 ## What is data science? What do data scientists do?
 Who knows! There seems to be **a lot** of debate about what a data scientist really is, and how they differ from statisticians and data analysts. The [Venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) below gets thrown about a lot, but I'm not sure it really helps that much! It seems people (sort of) agree that data scientists "extract information from data". Not very specific. It also feels like a buzzword, and many "data scientists" rebel against the term for that reason. 
@@ -19,29 +19,29 @@ Who knows! There seems to be **a lot** of debate about what a data scientist rea
 ![bodyimg]({{ site.baseurl }}/images/data-science.png)
 <center>Drew Conway's data science Venn diagram of doom.</center>
 
-To summarise the process (from what I gathered listening to people at the meeting), a basic data science project works as follows: A client gives you some data and asks you to do something with it. This could be a very specific task, such as predicting when a client might leave an investment bank, or might be very general, for example looking at many years worth of data and trying to spot patterns that might then lead to questions. Generally people seemed to work very closely with their clients, discussing in great detail what was required and reporting back frequently. A lot of work seemed to involve the initial data cleaning and wrangling, and projects needed to change to fit with the changing needs of the client. As a final product, clients wanted a variety of things. Some required reports, others software, and many wanted some kind of application or dashboard that would allow them to run analyses themselves. 
+To summarise the process (from what I gathered listening to people at the meeting), a basic data science project works as follows: a client gives you some data and asks you to do something with it. This could be a very specific task, such as predicting when a client might leave an investment bank, or might be very general, for example looking at many year's worth of data and trying to spot patterns that might then lead to questions. Generally people seemed to work very closely with their clients, discussing in great detail what was required and reporting back frequently. A lot of work seemed to involve the initial data cleaning and wrangling, and projects needed to change to fit with the changing needs of the client. As a final product, clients wanted a variety of things. Some required reports, others software, and many wanted some kind of application or dashboard that would allow them to run analyses themselves. 
 
 ## How does this relate to what we do in PhDs/postdocs?
 I've noted a number of similarities and differences below.
  
 ### Similarities
-- Data is extremely messy, and lots of data wrangling is needed. Yeah we've got this one covered in biology!
+- Data are extremely messy, and lots of data wrangling is needed. Yeah we've got this one covered in biology!
 - Statistics used are standard statistics used in biology - linear models, GLMs, clustering. In fact most PhDs use more complex stats. Use this to your advantage!
 - Ability to communicate what you did and why, and what you found, is key. The only difference is the audience may need more help understanding some concepts, particularly as regards to uncertainty in models.
 - Data visualisation is really important.
 - Presentation skills are really important.
 
 ### Differences
-- Lots of emphasis on data exploration to come up with questions, rather than *a priori* hypotheses.
-- Data is always "other people's data", though you can ask clients to provide/collect other pertinent data. This means you have to work hard to understand it.
+- Lots of emphasis on data exploration to come up with questions, rather than *a priori* hypotheses, although we sometimes do that in biology too.
+- Data are always "other people's data", though you can ask clients to provide/collect other pertinent data. This means you have to work hard to understand it.
 - Privacy and data protection are likely to be an issue, so learn how to deal with this and be prepared to work around issues where you can't ever see the actual data, just a dummy subset.
 - Often multiple people are involved in a single project. So rather than running all the analyses for a project, you might just run one analysis that makes up a bigger whole.
 - Often clients wanted to predict what would happen the future, which we don't do that often.
 
 ## Dealing with perception bias
-One thing to be aware of is that there are misconceptions among employers about academics. I had a long chat with someone who claimed that employers thought PhDs/postdocs made poor data scientists because (1) they couldn't cope with messy data; (2) they couldn't use databases; (3) they couldn't deal with working 9-5; and (4) they didn't know how to monetise their skills.
+One thing to be aware of is that there are misconceptions among employers about academics. I had a long chat with someone who claimed that employers thought PhDs/postdocs made poor data scientists because (1) they couldn't cope with messy data; (2) they couldn't use databases; (3) they couldn't deal with working 9-5; and (4) they didn't know how to monetise their skills or deal with clients.
 
-Of course biologists often have the messiest data and spend huge amounts of time data wrangling, many people use databases, and academics often work far longer than eight hour days, even if not exactly 9-5! However, it's worth trying to make this kind of thing clear in your job applications and CV, and writing your experience in a way that will sell the relevance of your PhD work to the job. The issue of dealing with clients is more true, but this is something that can be taught, and "work experience" (see below) may help convince employers that you have the ability to do this.
+Of course biologists often have the messiest data and spend huge amounts of time data wrangling, many people use databases, and academics often work far longer than eight hour days, even if not exactly 9-5! However, it's worth trying to make this kind of thing clear in your job applications and CV, and writing your experience in a way that will sell the relevance of your PhD work to the job. The issue of dealing with knowing how to deal with clients is more true, but this is something that can be taught, and "work experience" (see below) may help convince employers that you have the ability to do this.
 
 I got annoyed in a talk where someone referred to scientists as "citizen data scientists" because we vaguely know what we are doing. In the questions someone said we were a hopeless case because we would never let go of our "point and click" mentality. So these are the kinds of people we are trying to convince that we are actually pretty competent!
 
@@ -56,15 +56,22 @@ Finally I'll summarise some of the advice people gave me at the meeting for maki
 
 - **Make R packages.** You don't need to release them on CRAN, just make them to keep your analyses for each paper in a tidy format. Employers love to see that you can make R packages.
 
-- **Learn about reproducibility.** This is as big a bizzwrod in data science as it is in science these days. Get down with the cool kids and get reproducbile. Check out papers here: [https://peerj.com/collections/50-practicaldatascistats/](https://peerj.com/collections/50-practicaldatascistats/)
+- **Learn about reproducibility.** This is as big a buzzword in data science as it is in science these days. Get down with the cool kids and get reproducible. Check out papers here: [https://peerj.com/collections/50-practicaldatascistats/](https://peerj.com/collections/50-practicaldatascistats/)
 
 - **Tailor your CV to make sure you emphasise the skills employers need.**  And make sure to address common areas of perception bias here. Also emphasise the skills you have that make you better than the usual data science direct entrant - you've had extensive experience with messy data, complex stats
 
-- **Learn machine larning.** This also seems to be a popular skill required in a lot of data science jobs. But again this will change as the fashionable methods change, so keep an eye on what is "hot" at the point you think of applying for jobs.
+- **Learn machine learning.** This also seems to be a popular skill required in a lot of data science jobs. But again this will change as the fashionable methods change, so keep an eye on what is "hot" at the point you think of applying for jobs.
 
-- **Learn SQL, and use databases.** Most companies will store their data in some kind of database, so knowing how to extact data from a database is key. SQL is not hard, and packages like `dbplyr` which is part of the `tidyverse` make extracting data from databases pretty straightforward. According to one person I spoke to, many PhDs do not have this experience, as their data is often in spreadsheets or text files.
+- **Learn SQL, and use databases.** Most companies will store their data in some kind of database, so knowing how to extract data from a database is key. SQL is not hard, and packages like `dbplyr` which is part of the `tidyverse` make extracting data from databases pretty straightforward. According to one person I spoke to, many PhDs do not have this experience, as their data are often in spreadsheets or text files.
 
 - **Work experience.** One person I spoke to said that there was no way a recent PhD/postdoc would get a job in data science without work experience. It used to be common, but is becoming more competitive as more undergraduate degrees train people in the area. I am unsure that this is true of every company, and certain jobs would seem to benefit from domain specific ecology knowledge more than others. But this tip was pretty depressing, as it's not easy or economically viable for many of us to just go out and volunteer or take on an unpaid internship to get experience. However, there are some options. First, sharing code etc. via GitHub (or similar) is a good way to showcase your code and your talents. Second, if you can spare the time, you could take on some projects for others to create a "portfolio" of your skills. For example, if people have datasets lying around, you could volunteer to analyse these for them, produce a nice Rmarkdown report and/or Shiny app, and publish it all on GitHub for the world to see. Think of GitHub (or similar) as your portfolio. Sadly this will take up some of your free time, but you'll probably also get authorship on any papers, and can demonstrate that you got a task from a "client" and created an "output" in a timely manner. 
+
+Hope some of this is helpful or interesting!
+
+### Natalie
+@nhcooper123
+
+### Picture credit: Noam Ross, Drew Conway.
 
 ## APPENDIX
 One thing that has always puzzled me about data science is what kinds of stuff could you work on, and what kinds of companies hire data scientists? Here's a list to help!
@@ -89,7 +96,9 @@ Here is a list of some of the topics I saw people working on at EARL:
 - analysing amounts of green space in cities
 - visualising brand identities
 
-There were applications in banking, agriculture, food production, utlities, medicine, transport, architecture, car industry, advertising, manufacturing, auditting, government departments, insurance, pharmaceuticals, consulting, computing, NGOs. 
+There were applications in banking, agriculture, food production, utilities, medicine, transport, architecture, car industry, advertising, manufacturing, auditing, government departments, insurance, pharmaceuticals, consulting, computing, NGOs. 
+
+There are some more details on some talks in this blog post by [David Smith](https://www.r-bloggers.com/recap-applications-of-r-at-earl-london-2017/).
 
 ### What types of companies have data scientists?
 Companies I saw represented at EARL (sorry these are UK centric):
@@ -100,7 +109,7 @@ Companies I saw represented at EARL (sorry these are UK centric):
 - Northumbria Water
 - Department for Business Energy and Industrial Strategy
 - Microsoft
-- Ministry of Defence
+- Ministry of Defense
 - Bank of France
 - AstraZeneca
 - Investec Specialist Bank
@@ -123,10 +132,6 @@ Companies I saw represented at EARL (sorry these are UK centric):
 - Department of Education
 - Office of National Statistics
 - Crisis
-- Ofstead
+- Ofsted
 - RStudio
 
-### Natalie
-@nhcooper123
-
-### Picture credit: Noam Ross, Drew Conway.
