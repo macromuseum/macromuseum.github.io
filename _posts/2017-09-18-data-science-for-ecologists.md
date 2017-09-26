@@ -4,6 +4,7 @@ title: Careers outside academia - data science
 ---
 
 ![headimg]({{ site.baseurl }}/images/r4cats.png)
+**Now with extra comments from Tim Lucas [@statsforbios](www.twitter.com/statsforbios)**
 We all know academia is a bit of a pyramid scheme. Far more PhD students graduate each year than can possibly become professors. Students often ask for ideas of what they could do outside of academia. However, academics are often the worst people to ask, because we're stuck inside the system. Recently, when I've asked people for ideas of what my students could do post graduation, they've said "data science". But what is data science? And what kinds of things do people do in data science? In this blog post I'm going to try and summarise what I learnt about data science from attending the *EARL - Enterprise Applications of the R Language* [conference](https://earlconf.com/london/) last week in London. 
 
 **TL;DR: I think quantitative biologists have the skills to make excellent data scientists.**
