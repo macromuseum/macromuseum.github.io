@@ -29,7 +29,7 @@ Using a technique called geometric morphometrics, we were able to compare the sh
 Our analysis consistently grouped the four river dolphin genera together, indicating that they do show convergence in shape. This can most clearly be viewed in Figure 2 below. On the left is a phylogenetic tree, showing the relationships among dolphin genera. On the right is a phenetic tree, which is made by clustering together species that have the most similar skull shape. We can see that the river dolphin genera in blue, cluster together very nicely in the phenetic tree, and the same happens for the mandible, thus we see convergence!
  
 [![bodyimg]({{ site.baseurl }}/images/dolphinfig2.jpg)]({{ site.baseurl }}/images/dolphinfig2.jpg)
-<center> Figure 2. A tanglegram showing comparisons of a phylogenetic tree (left, adapted from Steeman et al., 2009 ), showing the relationships between toothed dolphin genera, and a phenetic tree (right), created using a clustering analysis on cranial shape data. River dolphin genera are in blue. Dolphin outlines represent toothed dolphin families shown in the key. Dolphin outlines by Chris Huh licensed under CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Cetaceans.svg).</center>
+<center> Figure 2. A tanglegram showing comparisons of a phylogenetic tree (left, adapted from Steeman et al., 2009 ), showing the relationships between toothed dolphin genera, and a phenetic tree (right), created using a clustering analysis on cranial shape data. River dolphin genera are in blue. Dolphin outlines represent toothed dolphin families shown in the key. Dolphin outlines by Chris Huh licensed under CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Cetaceans.svg). Click on the image to see it full size. </center>
  
 Why might river dolphins show this convergence in shape? Through doing this study, we were also able to identify features of river dolphin skulls that show convergence. In particular, elongation of skull features plays a huge role in the similarities uncovered. Convergent evolution has been attributed to many things (see here for further reading), but in river dolphins, this elongation (specifically, elongated tooth row, mandible and rostrum) relates to feeding mode and diet.
  
@@ -42,7 +42,7 @@ River dolphins are one of the world's most endangered and least researched group
 Page CE, Cooper N. 2017. Morphological convergence in 'river dolphin' skulls. *PeerJ*, **5**: e4090, [doi: 10.7717/peerj.4090](https://doi.org/10.7717/peerj.4090).
 
 ### Code and data
-All the code for these papers is available on [GitHub](https://github.com/NaturalHistoryMuseum/river-dolphin-convergence), and the data are available from the NHM Data Portal at [doi: http://dx.doi.org/10.5519/0082274](http://data.nhm.ac.uk/dataset/8f217824-d177-4209-8def-ce888494df14).
+All the code for the paper is available on [GitHub](https://github.com/NaturalHistoryMuseum/river-dolphin-convergence), and the data are available from the NHM Data Portal at [doi: http://dx.doi.org/10.5519/0082274](http://data.nhm.ac.uk/dataset/8f217824-d177-4209-8def-ce888494df14).
 
 ### Picture credit: 
 * The Amazon river dolphin (*Inia geoffrensis*), nick-named the 'pink dolphin', appearing out of the shadowy, tea stained River Ganges.  Photograph by Jorge Andrade licensed under CC attribution 2.0 Generic License [link](https://commons.wikimedia.org/w/index.php?search=amazon+river+dolphin&title=Special:Search&go=Go&searchToken=62ktjw8a7a9vgayvjx036wqef#/media/File:Amazon_river_dolphin_3.jpg).
