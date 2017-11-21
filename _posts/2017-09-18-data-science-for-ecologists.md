@@ -10,6 +10,8 @@ We all know academia is a bit of a pyramid scheme. Far more PhD students graduat
 
 *Disclaimer: These are my opinions, and my interpretation of what I saw and heard during the conference. Some of this came from the talks and my general impressions, other information came from discussions I had with people during the breaks. Apologies to data scientists if you feel I have misrepresented any of your opinions and/or misinterpreted what you were saying. Also I feel like there is quite a lot of disagreement about some of this, so again apologies if you feel my interpretation is incorrect.*
 
+### 2017-09-26: Post updated with comments from Tim Lucas ([@statsforbios](www.twitter.com/statsforbios)). See below.
+
 ## R we impostors?
 I started the EARL meeting feeling very intimidated and full of impostor syndrome. People I chatted to in the breaks seemed confused as to why I was there, and I doubted whether my R skills were really up to the meeting standard. However, as the meeting went on I realised that this wasn't the case at all. Most speakers were doing really similar things to what we do as biologists who use R a lot, especially those of us using other people's data, and/or needing to wrangle multiple datasets to make sense of a problem. Near the end I attended several talks on reproducibility where people were discussing the exact same problems, and the exact same solutions and workflows, that we have been using. And when people talked about statistics, I realised that quantitative ecologists are way ahead here! This led to me to realise that many of us **have the skills to be data scientists** we just need to know how to package them for non academic employers. 
 
@@ -73,6 +75,78 @@ Hope some of this is helpful or interesting!
 
 ### Picture credit: Noam Ross, Drew Conway.
 
+![bodyimg]({{ site.baseurl }}/images/IPsAiRF3_bigger.png)
+<center>Now for some guest edits from @statsforbios</center>
+
+
+### Further comments by Tim Lucas ([@statsforbios](www.twitter.com/statsforbios))
+
+I had a bunch of thoughts about this post and after [tweeting them](https://twitter.com/statsforbios/status/910118392224468992), Natalie suggested I add them to the blog post.
+While the quote "academics are often the worst people to ask, because we're stuck inside the system" describes me, I have spent a lot of time thinking about a data-science-esque career path if academia didn't/doesn't work out.
+To that end, I've read many job descriptions for analysis/statistics/data science type jobs.
+I've also attended a bunch of [LondonR](http://www.londonr.org/) meetings.
+So hopefully I have some vaguely useful insights.
+
+First some quick generalities. 
+Some [job websites](https://www.monster.co.uk/jobs/search/?cy=uk&q=R-data-science&kwdv=12482) have tags for jobs that require R.
+There's currently hundreds of jobs being advertised.
+There's a skill shortage in this area.
+
+Also, I think it's silly that physics graduate students are considered to be quantitative and employable in a way biology graduates currently aren't.
+A few tweaks to biology undergraduate curricula (bit more R, bit more explicit data munging, basics of machine learning) and biology grads could so easily be the go-to source for data science jobs.
+But, this post was more about biology PhD students, so I'll get off my hobby-horse.
+
+- **"Most PhDs use more complex stats."**
+
+In particular scientists often handle autocorrelation in space/time/phylogeny or by group (i.e. mixed-effects glms). 
+However, many grad-students are comfortable with autocorrelation due to one of these variables.
+If you can understand that the same concepts apply to different forms of autocorrelation, your niche "phylogenetic regression" knowledge, that doesn't feel like it applies to other areas of data science suddenly becomes general.
+
+Secondly, many scientists are mostly interested in autocorrelation because they want unbiased estimates of fixed effects.
+Therefore the goal is to control for the autocorrelation and then broadly ignore it.
+However, autocorrelation is also incredibly useful for getting better predictions; which is a more common goal in business data science.
+This [blog post](https://dynamicecology.wordpress.com/2013/10/16/in-praise-of-exploratory-statistics/), and others linked within, are a great discussion of the different aims of statistics.
+So, if you can understand how autocorrelation can be used to improve predictions, by including random-effects in your model, you have realigned yourself with business, without learning how new types of analysis.
+
+- **"Learn machine learning. Fashionable methods change"** 
+
+This is easier than it sounds. 
+There are a few umbrella concepts in machine learning (cross-validation, over-fitting, hyperparameters) that might be new to an ecologist.
+But the concepts are not terrible difficult compared to the statistics you probably already know.
+Again see the Dynamic Ecology blog posts.
+Alternatively the [documentation](https://topepo.github.io/caret/model-training-and-tuning.html) for the R package caret is basically a good intro to machine learning.
+
+From the practical point of view, caret makes machine learning not much harder than GLMs.
+Two lines of code will tune and fit a machine learning model.
+Changing one argument will tune and fit an entirely different model.
+So once you have learned the syntax for random forests (for example) you get neural networks and a million other models for free.
+Furthermore, the package is always being updated.
+So you can stay acceptably up-to-date with no additional work.
+
+- **"Learn SQL, and use databases."**
+
+I found that database software can be a pain (but maybe that's just me).
+But you can learn the concepts of databases and learn to use SQL with dplyr then sqldf in R.
+The dplyr verbs select, filter and join map directly to database concepts. 
+dplyr is just a generally useful package to know (see section **Stay on top of new stuff in R.**) so this isn't just learning for the sake of your CV.
+After that the package sqldf literally takes a string of SQL and applies it to the dataframes in your R session.
+While sitting down and learning the SQL syntax is possibly learning for the sake of learning, this again is a small, incremental step (there's only about 10 commands to learn).
+
+- **"Work experience"**
+I can't guarantee anything, but I have heard that employers look for [kaggle](https://www.kaggle.com/) or [drivendata](https://www.drivendata.org/) competition results. 
+These are only data science competitions. 
+You get given some data and are asked to predict the answers to a test dataset.
+There are leaderboards and (often) busy forums that can help get you going quickly.
+There are [interesting](https://www.kaggle.com/c/msk-redefining-cancer-treatment) [science](https://concepttoclinic.drivendata.org/) [competitions](https://www.drivendata.org/competitions/48/identify-fish-challenge/) if that helps motivate you.
+
+So, I think for many biology PhD students, understanding a few new concepts and how some other concepts relate, and replacing `lm()` with `caret::train()` in a few scripts could really put you in a great position for applying to data science jobs.
+
+That's all I got.
+
+### Tim Lucas 
+@statsforbios
+
+
 ## APPENDIX
 One thing that has always puzzled me about data science is what kinds of stuff could you work on, and what kinds of companies hire data scientists? Here's a list to help!
 
@@ -134,4 +208,3 @@ Companies I saw represented at EARL (sorry these are UK centric):
 - Crisis
 - Ofsted
 - RStudio
-
