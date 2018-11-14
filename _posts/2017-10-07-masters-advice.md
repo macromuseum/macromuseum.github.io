@@ -27,3 +27,8 @@ This year I've supervised seven Masters student projects, and second marked seve
 3. Also don't be afraid to speak to your supervisor if you're having problems in your personal life that are affecting your studies. We aren't monsters, we understand that life is messy and complicated and sometimes you'll need a bit of slack/extra help. We don't need to know the details, but it's good to get a heads up about problems as they arise, rather than vanishing off to deal with them and neglecting your project (or trying to keep going and burning out). Equally we'd love the same compassion from you - our lives are also complicated and busy so we aren't always as on top of things as we'd like.
 
 4. Finally, **enjoy your project**. It's a great chance to do a real research project, and get a real idea of what research is like. Even if it's the last piece of scientific research you ever do, try and appreciate and enjoy the opportunity to focus on just one thing for a few months. Go to seminars, interact with people in the lab, take advantage of all the opportunities you can. You'll be back to the real world soon enough! :)
+
+### Natalie
+@nhcooper123
+
+### Picture credit: Wikipedia

@@ -4,8 +4,6 @@ title: Making grant writing less painful
 ---
 
 ![headimg]({{ site.baseurl }}/images/bear.jpg)
-
-
 It's grant writing season again (actually when *isn't* it grant writing season these days?)! I've been thinking a lot about writing fellowship grants, as I've a number of postdoc mentees who are applying for these now and through the year. Our discussions have revealed that while there is lots of advice available on the sorts of things to write, and people are very happy to read drafts and give feedback, it's often really hard as an early career researcher to know where to start with such a massive undertaking. As someone who is often completely overwhelmed by grant proposals and just gazes at a blank screen for days, I thought I'd share my coping mechanisms.
 
 As ever advice comes with a caveat that this works for me, it won't work for everyone, and I'm sure there are better strategies out there!
@@ -56,3 +54,6 @@ A lot of grant writing involves psyching yourself up to actually write something
 7. Avoid procrastinating on small details III. Formatting is a good thing, but again don't get bogged down by it. This is particularly true in early drafts that will be editted so much that the formatting will need to be redone. Same for references - do these when you're certain these are the references that will be in the proposal. To facilitate this I tend to draft in Google docs then convert to Word closer to the deadline. I then know the formatting will have to be done in Word so there's little point worrying too much up til that point.
 
 These tips may not help, but hopefully something in here is useful! Good luck!
+
+### Natalie
+@nhcooper123
