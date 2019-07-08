@@ -208,3 +208,6 @@ Companies I saw represented at EARL (sorry these are UK centric):
 - Crisis
 - Ofsted
 - RStudio
+
+### Update July 2019
+I was sent this link which might be useful: [www.mastersindatascience.org/careers/data-scientist/](https://www.mastersindatascience.org/careers/data-scientist/). It lists what data science is, what it involves and where you can take a course. I'm not involved with this group but said I'd share the link so here you go!
