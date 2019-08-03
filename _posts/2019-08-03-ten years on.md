@@ -1,8 +1,12 @@
-# Ten years on...
+---
+layout: post
+title: Ten years on...
+---
 
+![headimg]({{ site.baseurl }}/images/new-scientist.png)
 1st April 2019 is the 10th anniversary of me getting my PhD (I do still sometimes wonder whether it was all an elaborate April Fools joke!). In that time I've lived on three continents and visited 14 countries for work. I've made friends all over the world. I've laughed, I've cried, and I've been bitten by several small mammals. Ten years seemed a good time to reflect on what I've learned, sometimes the hard way, and I thought this might be of interest to some of you earlier in your academic journey.
 
-### Things I'm better at...
+## Things I'm better at...
 
 1. I'm much quicker at doing pretty much everything. 
 Writing papers, putting together presentations, preparing teaching materials, admin, reading papers etc. Part of this is, as you'd hope(!) that I've become better at lots of stuff. Practice does indeed help, as does the confidence gained through doing these things over and over again. Equally this is a result of time constraints - I no longer have anywhere near as much time to do things so I've just had to learn how to do them quicker. I have also realised that some tasks will fill the time you assign to them, so for things I know I'll happily fiddle with for days (e.g. making pretty slides for a seminar), I now give myself a strict deadline meaning I've got time to do other things too.
@@ -30,7 +34,7 @@ Third, I make decisions about what to do based on whether I enjoy it or think it
 
 Finally, I have a back up plan. In the past it sometimes all felt like "too much" because if I didn't get that job/fellowship/grant what would I do? Who would I be without my science? Finding perspective means I know I still have plenty in my life I love and enjoy outside of work. And if I did have to leave for some reason I could do plenty of other things.
 
-### Things I'm worse at...
+## Things I'm worse at...
 
 1. Reading the literature and knowing the field inside out.
 As a PhD student and postdoc I did a lot of reading, both in and around my subject area. I went to several journal and book clubs, and I reviewed a lot of papers. Now I'm an editor at a journal so I read a lot of papers in that area, and I see what is trending on Twitter. But otherwise I'm just hoping someone else will keep me updated! This feels horrible, and triggers imposter syndrome, but I try to convince myself it I did need to catch up with the literature in an area I totally could... (please don't burst my bubble!). But PhD students and postdocs, when I say you know more than me I genuinely mean it!
