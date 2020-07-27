@@ -3,7 +3,7 @@ layout: post
 title: Some advice for writing postdoc applications
 ---
 
-![headimg]({{site.baseurl}}/images/Cat_on_laptop.jpeg)
+![headimg]({{ site.baseurl }}/images/Cat_on_laptop.jpg)
 We've recently gone through the process of hiring a postdoc. I hate running postdoc/PhD searches because you get to read about all these amazing projects, being done by all these passionate, intelligent people, but you can only hire one of them! This was a particularly painful one as we had 69(!) applicants, and all bar one or two could have definitely done the job.
 
 Reading very quickly through 69 applications gave me some ideas about what was useful and what wasn't in CVs and cover letters, so I thought I'd share this with you in case it's helpful. 
