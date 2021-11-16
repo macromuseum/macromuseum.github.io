@@ -176,7 +176,7 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 - marking/grading is excessive
 - emotional stress of not keeping great people/ideas due to lack of funding 
 - lots of competing demands/opportunities
-- people management is suddenly key, and not something I'd be trained to do
+- people management is suddenly key, and not something I'd been trained to do
 - massive reduction in time for thinking/science/coding etc.
 - have to transition to having others do the research for you, which can be difficult.
 - increased importance of networking (impact, policy, funders)
@@ -187,7 +187,7 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 - Ask if salary can be increased, there is often some wiggle room.
 - Get a mentor who has no link to your department for independent advice.
 - Need to carefully plan and strategise and prioritise to avoid just doing urgent tasks and not making progress with things you care about or need for promotion.
-- Be aware that setting up a new lab and creating new teaching materials takes a lot of time. Don't expect do do much, if any, research for a couple of years! 
+- Be aware that setting up a new lab and creating new teaching materials takes a lot of time. Don't expect to do much, if any, research for a couple of years! 
 - Postdocs (often) have long periods of unscheduled time in which to get research work done. Faculty time is often shredded into small chunks. Protecting larger chunks of free time and hoarding busywork to usefully use "time confetti" is a key skill to develop. (HT @DrSallyET for the delightful term "time confetti"). 
 - Make friends with the admin staff. They know what is going on, how to get stuff sorted, and are generally happy to help.
 - Be wary of the *sunk costs fallacy*. Be prepared to abandon projects if they aren't working and move onto something else. 
