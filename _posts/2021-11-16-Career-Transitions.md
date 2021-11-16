@@ -35,7 +35,7 @@ Finally, remember this is your life, and **no two career paths are identical**. 
 
 ## Specific transitions...
 
-For each of these we noted good stuff, challenges/surprises and tips. All of these are of course specific to the person and field in question, and may not apply universally. Note that transitions can occur in both directions, and not everyone will have (or will want) the same path (i.e. Masters -> PhD -> Postdoc -> Faculty). 
+For each of these transitions we noted good stuff, challenges/surprises and tips. All of these suggestions are of course specific to the person and field in question, and may not apply universally. Note that transitions can occur in both directions, and not everyone will have (or will want) the same path (i.e. Masters -> PhD -> Postdoc -> Faculty). 
 
 ## Academia to non-academia
 
@@ -51,11 +51,12 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - public-good focused rather than "fight-club mentality" of academia
 
 ### Surprises/challenges
-- Pay might not be great (in museums and sci comm for example). Especially if coming from a PhD as student discounts/tax breaks will no longer apply.
-- Need to have experience which might be unpaid volunteering
-- Contracts are often temporary
-- Pressure to work more/better to impress people to get a permanent contract
-- All jobs have bad bits - leaving academia is not a panacea!
+- pay might not be great (in museums and sci comm for example). Especially if coming from a PhD as student discounts/tax breaks will no longer apply.
+- need to have experience which might be unpaid volunteering
+- contracts are often temporary
+- pressure to work more/better to impress people to get a permanent contract
+- all jobs have bad bits - leaving academia is not a panacea!
+- being asked if you can do basic things like use Excel
 
 ### Tips
 - Talk to people who've made the same transition before you.
@@ -87,6 +88,7 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - PhD gives much more space to explore and think. Take advantage of this. If you want to learn something or improve, the first few years of your PhD are the best time to do this.
 - You might not feel like you have much spare time as a PhD student. If there are things you want to achieve, try scheduling time each week to do them and stick to it. Otherwise it's easy to just work on your thesis and not your broader skillset.
 - If lack of direction or structure is troubling you, talk to your supervisor.
+- Come up with a thesis plan early on, but remember you don't need to stick to it if things don't work or your interests change.
 
 ## PhD to postdoc
 
@@ -108,6 +110,8 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - now staff, have to do health and safety training etc. that staff need to do
 - in a grey area between staff and non staff. What should you get involved with? What can you skip?
 - change of relationship with having a supervisor versus having a boss can be hard to negotiate
+- PhD students get priority for certain bits of equipment and funding, so you need to plan around that 
+- fewer sources of additional funding compared to PhD students
 
 ### Tips
 - Learn how to prioritise your work. You might need to negotiate this with your boss. My boss agreed I should spend one day a week on my own work, and 4 days on his work. This meant I could get old projects finished but still make progress on what I was employed to do.
@@ -139,6 +143,10 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - Take advice like "this will help you get a permanent job offer here" with a pinch of salt. It often doesn't work out that way. And don't trust verbal promises of permanent jobs after a fellowship; get it in writing.
 - Get a mentor who has no link to your project for independent advice.
 - Make sure someone senior advocates for you to help you get things set up quickly and efficiently, and helps you get round administrative hurdles.
+- Be wary of the *sunk costs fallacy*. Be prepared to abandon projects if they aren't working and move onto something else. 
+- Avoid the temptation to go to every conference/seminar you get invited to. You may have the funds, and it's fun, but you have limited time.
+- Request your own office, you won't get one unless you ask for it.
+- Make friends with the admin staff. They know what is going on, how to get stuff sorted, and are generally happy to help.
 
 ## Postoc/fellow to Faculty
 
@@ -181,6 +189,9 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 - Need to carefully plan and strategise and prioritise to avoid just doing urgent tasks and not making progress with things you care about or need for promotion.
 - Be aware that setting up a new lab and creating new teaching materials takes a lot of time. Don't expect do do much, if any, research for a couple of years! 
 - Postdocs (often) have long periods of unscheduled time in which to get research work done. Faculty time is often shredded into small chunks. Protecting larger chunks of free time and hoarding busywork to usefully use "time confetti" is a key skill to develop. (HT @DrSallyET for the delightful term "time confetti"). 
+- Make friends with the admin staff. They know what is going on, how to get stuff sorted, and are generally happy to help.
+- Be wary of the *sunk costs fallacy*. Be prepared to abandon projects if they aren't working and move onto something else. 
+- Avoid the temptation to go to every conference/seminar you get invited to. You may have the funds, and it's fun, but you have limited time.
 
 Good luck and may the time confetti ever blow in your favour...
 
