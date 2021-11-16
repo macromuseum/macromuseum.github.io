@@ -8,7 +8,9 @@ We've got a few group members who have either recently transitioned career stage
 
 **TL;DR: transitions are hard, being prepared is your best plan.** 
 
-First I summarise the common themes across all transitions, followed by the overall take home message/advice, and then the specific points raised about each transition. Note that the aim of this exercise was to talk about the career *transitions* specifically rather than how to get the PhD/postdoc/job in the first place...
+First I summarise the common themes across all transitions, followed by the overall take home message/advice, and then the specific points raised about each transition. Note that the aim of this exercise was to talk about the career *transitions* specifically rather than how to get the PhD/postdoc/job in the first place... 
+
+*Apologies for not quote tweeting/HTing contributors, I ran out of time and a lot of comments are summaries of several people's comments.*
 
 ## Common themes
 
@@ -53,12 +55,14 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - Need to have experience which might be unpaid volunteering
 - Contracts are often temporary
 - Pressure to work more/better to impress people to get a permanent contract
+- All jobs have bad bits - leaving academia is not a panacea!
 
 ### Tips
-
 - Talk to people who've made the same transition before you.
 - Negotiate salary and moving expenses.
 - Be prepared for culture shock!
+- Be aware that some things will be worse than in academia, other things will be better, other things will just be different.
+- Things vary a lot between employers and fields, and sometimes even within companies. Get advice from someone as close to the team you will be in as possible.
 
 ## Masters to PhD
 
@@ -90,6 +94,7 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - more money!
 - taken seriously/given more responsibility
 - suddenly feeling smarter because you've learned all this stuff, are no longer super stressed, are in a new environment where your expertise isn't familiar so it seems new and shiny, and your postdoc adviser wants your opinion!
+- more structured than PhD which can mean it's less stressful as it's clear what you need to do
 
 ### Surprises/challenges
 - more administrative tasks
@@ -100,6 +105,9 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - central conflict of postdoccing is between you and your goals, and the goals of your boss. It requires a lot of communication, negotiation and careful prioritisation to keep everyone happy. 
 - stress of uncertainty about what happens next
 - can be very lonely without the support of your cohort and in a new place
+- now staff, have to do health and safety training etc. that staff need to do
+- in a grey area between staff and non staff. What should you get involved with? What can you skip?
+- change of relationship with having a supervisor versus having a boss can be hard to negotiate
 
 ### Tips
 - Learn how to prioritise your work. You might need to negotiate this with your boss. My boss agreed I should spend one day a week on my own work, and 4 days on his work. This meant I could get old projects finished but still make progress on what I was employed to do.
@@ -172,9 +180,9 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 - Get a mentor who has no link to your department for independent advice.
 - Need to carefully plan and strategise and prioritise to avoid just doing urgent tasks and not making progress with things you care about or need for promotion.
 - Be aware that setting up a new lab and creating new teaching materials takes a lot of time. Don't expect do do much, if any, research for a couple of years! 
-- Postdocs (often) have long periods of unscheduled time in which to get research work done. Faculty time is often shredded into small chunks. Protecting larger chunks of free time and hoarding busywork to usefully use "time confetti" is a key skill to develop.
+- Postdocs (often) have long periods of unscheduled time in which to get research work done. Faculty time is often shredded into small chunks. Protecting larger chunks of free time and hoarding busywork to usefully use "time confetti" is a key skill to develop. (HT @DrSallyET for the dleightful term "time confetti"). 
 
-This all rings very true to me, and I'm delighted by the term "time confetti". May it ever blow in your favour...
+Good luck and may the time confetti ever blow in your favour...
 
 ![]({{ site.baseurl }}/images/confetti.gif)
 
