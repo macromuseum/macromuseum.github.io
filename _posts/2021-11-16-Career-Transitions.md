@@ -4,7 +4,7 @@ title: Dealing with career transitions
 ---
 
 ![headimg]({{ site.baseurl }}/images/businesscat.png)
-We've got a few group members who have either recently transitioned career stages or are about to, so it seemed a good time to talk about career transitions. To help I posted this on Twitter, assuming I'd get a handful of replies, but instead loads of people sent really helpful suggestions (thanks all!). Here is the summary of what people suggested. Note that I've summarised and paraphrased many points; for the full discussion see the thread on Twitter. Massive thanks to everyone that contributed, and apologies if I missed any of your tips :)
+We've got a few group members who have either recently transitioned career stages or are about to, so it seemed a good time to talk about career transitions. To help I posted this question on Twitter, assuming I'd get a handful of replies, but instead loads of people sent really helpful suggestions (thanks all!). Here is the summary of what people suggested. Note that I've summarised and paraphrased many points; for the full discussion see the thread on Twitter. Massive thanks to everyone that contributed, and apologies if I missed any of your tips :)
 
 **TL;DR: transitions are hard, being prepared is your best plan.** 
 
@@ -56,9 +56,9 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 
 ### Tips
 
-- talk to people who've made the same transitions before you
-- negotiate salary
-- be prepared for culture shock!
+- Talk to people who've made the same transition before you.
+- Negotiate salary and moving expenses.
+- Be prepared for culture shock!
 
 ## Masters to PhD
 
@@ -81,7 +81,7 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 ### Tips
 - PhD is a marathon and MSc/MRes is a sprint. It is easy to burn out if you continue working the same hours you’ll have done in your MSc/MRes. Try to treat your PhD like a 9-5 job where possible.
 - PhD gives much more space to explore and think. Take advantage of this. If you want to learn something or improve, the first few years of your PhD are the best time to do this.
-- You might not feel like you have much spare time as a PhD student. If there are things you want to achieve, try scheduling time each week to do them and stick to it. Otherwise it's easy to just work on your thesis.
+- You might not feel like you have much spare time as a PhD student. If there are things you want to achieve, try scheduling time each week to do them and stick to it. Otherwise it's easy to just work on your thesis and not your broader skillset.
 - If lack of direction or structure is troubling you, talk to your supervisor.
 
 ## PhD to postdoc
@@ -99,6 +99,7 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - less freedom. Now an employee so working for someone and following their agenda rather than your own.
 - central conflict of postdoccing is between you and your goals, and the goals of your boss. It requires a lot of communication, negotiation and careful prioritisation to keep everyone happy. 
 - stress of uncertainty about what happens next
+- can be very lonely without the support of your cohort and in a new place
 
 ### Tips
 - Learn how to prioritise your work. You might need to negotiate this with your boss. My boss agreed I should spend one day a week on my own work, and 4 days on his work. This meant I could get old projects finished but still make progress on what I was employed to do.
@@ -127,6 +128,7 @@ A lot of people mentioned that this was a key one to consider given the lack of 
 - Try and deal with as much admin as you can before starting the fellowship. Ideally move to the city a few weeks in advance to do moving related admin. Be prepared to get very little research done in the first 6 months as you negotiate the system.
 - Prioritisation is key. You'll get invited to lots of new projects and suddenly have a lot more admin and possibly also teaching. Need to ensure your project comes first.
 - People will ask you to help out with things. Initially this feels flattering, but be very careful about agreeing to do too much extra stuff. Try to balance costs and benefits. Will this new task add something substantial to your CV, or not? How much time will it take you?
+- Take advice like "this will help you get a permanent job offer here" with a pinch of salt. It often doesn't work out that way. And don't trust verbal promises of permanent jobs after a fellowship; get it in writing.
 - Get a mentor who has no link to your project for independent advice.
 - Make sure someone senior advocates for you to help you get things set up quickly and efficiently, and helps you get round administrative hurdles.
 
@@ -174,7 +176,7 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 
 This all rings very true to me, and I'm delighted by the term "time confetti". May it ever blow in your favour...
 
-![Puppet under some confetti](https://giphy.com/gifs/hazelnutblvd-puppet-hazelnut-blvd-l46CvRFB1GqPYAOis/giphy.gif)
+![Puppet under some confetti](images/confetti.gif)
 
 ### Natalie
 @nhcooper123
