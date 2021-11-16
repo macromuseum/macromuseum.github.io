@@ -176,7 +176,7 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 
 This all rings very true to me, and I'm delighted by the term "time confetti". May it ever blow in your favour...
 
-![Puppet under some confetti](images/confetti.gif)
+![]({{ site.baseurl }}/images/confetti.gif)
 
 ### Natalie
 @nhcooper123
