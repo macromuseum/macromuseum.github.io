@@ -180,7 +180,7 @@ Note that there are jobs which are "academic adjacent", like working in a museum
 - Get a mentor who has no link to your department for independent advice.
 - Need to carefully plan and strategise and prioritise to avoid just doing urgent tasks and not making progress with things you care about or need for promotion.
 - Be aware that setting up a new lab and creating new teaching materials takes a lot of time. Don't expect do do much, if any, research for a couple of years! 
-- Postdocs (often) have long periods of unscheduled time in which to get research work done. Faculty time is often shredded into small chunks. Protecting larger chunks of free time and hoarding busywork to usefully use "time confetti" is a key skill to develop. (HT @DrSallyET for the dleightful term "time confetti"). 
+- Postdocs (often) have long periods of unscheduled time in which to get research work done. Faculty time is often shredded into small chunks. Protecting larger chunks of free time and hoarding busywork to usefully use "time confetti" is a key skill to develop. (HT @DrSallyET for the delightful term "time confetti"). 
 
 Good luck and may the time confetti ever blow in your favour...
 
