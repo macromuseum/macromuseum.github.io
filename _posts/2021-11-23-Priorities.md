@@ -57,9 +57,9 @@ Make sure you schedule time to do the important but not urgent stuff, or you'll 
 ### The ABC Method
 Organise your to do list into: 
 
-A. Must do
-B. Should do
-C. Nice to do
+- A. Must do
+- B. Should do
+- C. Nice to do
 
 Similar to the Eisenhower matrix, you should try and schedule a mixture of tasks to ensure you're doing things you have to do, but also things you should do. 
 
