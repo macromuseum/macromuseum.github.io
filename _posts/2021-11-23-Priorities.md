@@ -3,7 +3,7 @@ layout: post
 title: How do you prioritize?
 ---
 
-![headimg]({{ site.baseurl }}/images/otter.jpeg)
+![headimg]({{ site.baseurl }}/images/priorities.jpeg)
 In a previous [post](https://macromuseum.github.io/Career-Transitions/) we found that one common thing about progressing through career stages (academic and non-academic) is that the volume and variety of tasks are going to increase from undergrad level onwards. Most of us can muddle through up to a point, perhaps by working a few extra hours, or accepting that a few things will be late or not done to the standard we'd like. But eventually there comes a point where you have too many things to do, and it's not clear what order to do things in. Prioritizing becomes a key skill, and it's one many of us are quite bad at.
 
 The central issue is there's often conflict between:
@@ -27,44 +27,56 @@ There are a few things you need to do before you can work out what to prioritize
 1. Get organised. 
 First off you need a system for recording your tasks and deadlines, *and* any other non-work commitments that might influence how much time or energy you have to dedicate to something. It might take a while to set up, but once set up it should not be difficult to maintain (if it is you might need a different system). It can take a couple of tries to find a system that works for you. 
 
-*Example system: I use Google calendars with different calendars and colours for work and non-work stuff to record meetings/deadlines etc. I use trello.com to record my tasks/objectives. If I can do something in 5 minutes or less I do it immediately, otherwise I add the task to trello and/or the date/time to the calendar as soon as I get it (via email, slack, face-to-face). I then delete the email so I know it has been dealt with. Any emails left in my inbox still need either adding to the list or responding to. If I'm feeling overwhelmed I often also make monthly planners on scrap paper to ensure I'm not forgetting anything and to identify clear blocks of time for less urgent work.*
-
 2. Make a schedule.
 Once you have a system, schedule your unavoidable work travel, meetings, deadlines etc., but also schedule non-work stuff. This should allow you to see what time you have available to complete your tasks. 
 	- Avoid planning too rigidly. Leave some room for flexibility. And don't forget breaks!
 	- For scheduling tasks, it's apparently better to use time slots (e.g. morning/afternoon), rather than set times. 
-	- It's also apparently better to schedule activities rather than goals, i.e. work on chapter 2 rather than finish chapter 2, so that you feel you made progress even if you didn't complete something. 
+	- It's also apparently better to schedule activities rather than goals, i.e. "work on chapter 2" rather than "finish chapter 2", so that you feel you made progress even if you didn't complete something. 
 	- Make a list of back burner "procrasti-tasks" that only take up a few minutes to an hour, and don't require much brain power (e.g. booking travel, reclaiming expenses, adding papers to your reference manager). You can do these in any spare time slots, or at times your brain isn't working well enough to do anything more demanding.
 	- Remember energy levels when planning. If you're going to a friend's wedding on Sunday and you know you'll be exhausted on Monday, don't plan to do anything intense. Likewise, if you know you work better in the mornings, don't plan difficult stuff for the afternoons.
 
+*Example system: I use Google calendars with different calendars and colours for work and non-work stuff to record meetings/deadlines etc. I use trello.com to record my tasks/objectives. If I can do something in 5 minutes or less I do it immediately, otherwise I add the task to trello and/or the meeting/deadline date/time to the calendar as soon as I get it (via email, slack, face-to-face). If this came in via email I then delete the email so I know it has been dealt with. Any emails left in my inbox still need either adding to the list or responding to. If I'm feeling overwhelmed I often also make monthly planners on scrap paper to ensure I'm not forgetting anything and to identify clear blocks of time for less urgent, but important, work.*
+
 ## Techniques for prioritizing
+There are many techniques, and it's worth trying a few to see what works for you. 
 
-1. Eisenhower matrix
-Important vs not important (for you/the world)
-Urgent vs not urgent
+### The Eisenhower matrix
+Organise your to do list into: 
+- Important vs not important (for you/the world)
+- Urgent vs not urgent
 
-Make sure you schedule time to do the important but not urgent stuff, or you'll spend all your time doing not important urgent tasks instead. Perhaps cut some non-important stuff?
+You should end up with four categories:
 
-2. The ABC Method
-A = must do
-B = should do
-C = nice to do
+- important and urgent. This will be things like finishing a presentation for conference next week, or an analysis for a paper you want to submit soon.
+- important but not urgent. Things like grant writing, adding skills to your CV, learning new software/coding techniques, looking for jobs. This is the stuff that tends to get sidelined in favour of...
+- not important (for your career progression) but urgent. Mostly meetings and admin.
+- not important and not urgent. Do you even need to do this?
 
-Try and schedule a mixture of tasks. Perhaps cut some of group C?
+Make sure you schedule time to do the important but not urgent stuff, or you'll spend all your time doing not important urgent tasks instead. Perhaps you can cut some non-important stuff?
 
-3. Objectives/goals versus tasks
-- Rewrite your to do list into objectives/goals with associated tasks.
-- Focus on *achieving the goals through completing tasks* rather than completing tasks to achieve goals. 
+### The ABC Method
+Organise your to do list into: 
+
+A. Must do
+B. Should do
+C. Nice to do
+
+Similar to the Eisenhower matrix, you should try and schedule a mixture of tasks to ensure you're doing things you have to do, but also things you should do. 
+
+### Objectives/goals versus tasks
+This is more about reframing your to do list into something that helps you progress, rather than just a list of tasks to tick off. You could combine this approach with any of the other approaches.
+
+Rewrite your to do list into objectives/goals with associated tasks. Then you focus on *achieving the goals through completing tasks* rather than completing tasks to achieve goals. 
 
 Prioritize based on goals not tasks.
 
-4. Spur of the moment planning
-- What can I do right now? 
+### Spur of the moment planning
+Often we need to decide what to do on the spot, rather than as part of a broader plan of action. You can use these questions to plan what to do if you suddenly have a small window of opportunity to do work, but no clear plan for it.
+
+- What can I do right now given the equipment to hand? 
 - How much time do I have and when do I have to do something else? 
 - How much energy and focus do I have? 
 - What has the highest payoff for me if I do it?
-
-Use these questions to plan what to do if you suddenly have a small window of opportunity to do work, but no clear plan for it.
 
 ## Eliminate tasks before they arise!
 One way to avoid having to prioritize is getting better at saying no. If you say no to something then it doesn't become an item on your to do list! 
